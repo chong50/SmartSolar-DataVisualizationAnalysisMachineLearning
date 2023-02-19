@@ -1,6 +1,6 @@
 # Smart Solar - Supervisory Data Acquisition, Visualization, Optimization, Analysis
 ## Data Modeling and Analysis
-This repository showcases the full progress report, evidence and results of data modeling and analysis software code in .m file using MATLAB software to feature progress as of now.
+#### This repository showcases the full progress report, evidence and results of data modeling and analysis software code in .m file using MATLAB software to feature progress as of now.
 
 Inside the repository folder features a MATLAB .m file of the code in progress, graph visualization, sample data, and lastly this README.md.
 
