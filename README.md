@@ -4,7 +4,9 @@ This repository showcases the full progress report, evidence and results of data
 
 Inside the repository folder features a MATLAB .m file of the code in progress, graph visualization, sample data, and lastly this README.md.
 
-Note: Due to the rest of incomplete subsystems, we are unable to import real data from remote server. In our code function testing and planning, we created a sample data file in the absence of real data. 
+Note: Due to the rest of incomplete subsystems, we are unable to import real data from remote server. In our testing of code function, we created a sample data .csv to make sure our code segments work right in the absence of real data. 
+
+The sample data includes the respective power consumption data of each tenant in Wang Hall. In the absence of real data,  we made the comparison of useful analogy of each subsystem's power consumption to each tenant consumption in the building, and the total of whole system to the building system of Wang Hall. 
 
 ## Features (System Environment)
 In features, we simplify the code by breaking down the code infrastructure in .m files into each section corresponding to its process and function. 
