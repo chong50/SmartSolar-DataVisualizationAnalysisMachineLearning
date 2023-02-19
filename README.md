@@ -4,8 +4,8 @@
 
 #### Inside the repository folder has MATLAB .m file featuring the software code in progress, results of graphs, a sample data file, and also this README.md file.
 
-The objective of the code is to first import the data from remote server, and enable visualization of data to obtain insights, then visit the process of Machine Learning (by artificial Neural Network) using same input data to infer, predict current and future performances of power generation of solar panel in Smart Solar Project.
-
+## Objective 
+The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, Infer and predict current and future performances of Power generation of solar panel. 
 
 ## Activity Diagram
 
