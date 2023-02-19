@@ -1,3 +1,3 @@
-# Smart Solar - Data Analysis and Modeling
+# Smart Solar - Data Visualization, Optimization, Analysis
 
-###### This repository comprises the subsystem of 
+##### This repository comprises of full progress report infrastructure details of the code .m 
