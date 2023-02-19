@@ -14,9 +14,6 @@ In features, we simplify the code by breaking down the code infrastructure in .m
 - Process of Artificial Neural Network 
 - Model Visualization and Computation of Error
 
-## Objective 
-The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, based on optimal results, we can infer and predict the results of future performance of Power generation of the solar panel. 
-
 ## As of Now Progress
 Note: Due to the rest of incomplete subsystems, we are unable to import real data from remote server. In our testing of code function, we do not require real data to test the operation of the system. Instead, we only need a sample of power consumption data.  
 
