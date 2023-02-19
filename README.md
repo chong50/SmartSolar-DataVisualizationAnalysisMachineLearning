@@ -1,6 +1,6 @@
 # Smart Solar - Data Visualization, Optimization, Analysis
 ## Data Modeling and Analysis
-##### This repository showcases the full progress report, evidence and results of data modeling and analysis software code in the MATLAB infrastructure of .m file. 
+#### This repository showcases the full progress report, evidence and results of data modeling and analysis software code in the MATLAB infrastructure of .m file. 
 
 The repository filing includes few items such as the original software code in .m file, sample data in csv, graphs, and also this README.md. 
 
