@@ -1,8 +1,8 @@
-# Smart Solar - Data Visualization, Optimization, Analysis
+# Smart Solar - Supervisory Data Acquisition, Visualization, Optimization, Analysis
 ## Data Modeling and Analysis
-#### This repository showcases the full progress report, evidence and results of data modeling and analysis software code in .m file using MATLAB software to feature progress as of now.
+This repository showcases the full progress report, evidence and results of data modeling and analysis software code in .m file using MATLAB software to feature progress as of now.
 
-#### Inside the repository folder has MATLAB .m file featuring the software code in progress, results of graphs, a sample data file, and also this README.md file.
+Inside the repository folder features a MATLAB .m file of the code in progress, graph visualization, sample data, and lastly this README.md.
 
 ## Features (System Environment)
 In features, we simplify the code by breaking down the code infrastructure in .m files into each section corresponding to its process and function. 
@@ -14,6 +14,5 @@ In features, we simplify the code by breaking down the code infrastructure in .m
 - Model Visualization and Computation of Error
 
 ## Objective 
-The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, based on optimal results, infer and predict future results of Power generation of solar panel. 
-
+The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, based on optimal results, we can infer and predict the results of future performance of Power generation of the solar panel. 
 ## Activity Diagram
