@@ -1,9 +1,11 @@
 # Smart Solar - Data Visualization, Optimization, Analysis
 ## Data Modeling and Analysis
-##### This repository comprises of the full progress report 
+##### This repository outlines the subsytem's full progress report on planning, implementation and result of c
 ## Features
-- Importing of Data from remote server
-- Visualization of Data 
-- Normalization of Inputs and Output transformation before Deep Learning
-- Process of Artificial Neural Network including code
-- Com
+- Importing the Data
+- Visualization of Time-Series Data 
+- Computation of Load Consumption Graph and Power Generation Curve
+- Normalizing Input data and Transforming Outputs to save as ANN 'Machine Learning' Dataset
+- Process of Artificial Neural Network and infrastructure code
+- Model Visualization and Computation of Error
+- 
