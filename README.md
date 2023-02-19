@@ -1,6 +1,12 @@
 # Smart Solar - Data Visualization, Optimization, Analysis
 ## Data Modeling and Analysis
-This repository showcases the full progress report on strategy, planning, implementation, evidence and results of analysis software code infrastructure in .m file, in order to enable visualization of data to obtain insights, and process of Machine Learning (by artificial Neural Network) to infer, predict current and future performance of power generation of solar panel in the Project. On Progress Report, to current extent MATLAB coding is exclusive. Due to the unfinished installation of the hardware system under working progress, we create our dummy data set to mimic 
+##### This repository showcases the full progress report, evidence and results of data modeling and analysis software code in the MATLAB infrastructure of .m file. 
+
+The repository filing includes few items such as the original software code in .m file, sample data in csv, graphs, and also this README.md. 
+
+The objective of the code is to first import the data from remote server, and enable visualization of data to obtain insights, then visit the process of Machine Learning (by artificial Neural Network) using same input data to infer, predict current and future performances of power generation of solar panel in Smart Solar Project.
+
+
 ## Activity Diagram
 
 ## Features (System Environment)
