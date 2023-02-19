@@ -23,3 +23,4 @@ In the absence of real data,  we used the analogy of each subsystem's power cons
 The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, based on optimal results, we can infer and predict the results of future performance of Power generation of the solar panel. 
 
 ## Activity Diagram
+![Subsystem Diagram](https://user-images.githubusercontent.com/70229773/219973558-7d33b56b-5338-4c60-a29f-ccf55f6dba2b.JPG)
