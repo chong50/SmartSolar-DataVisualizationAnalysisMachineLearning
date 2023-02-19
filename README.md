@@ -3,7 +3,7 @@
 This repository showcases the full progress report, evidence and results of data modeling and analysis software code in .m file using MATLAB software to feature progress as of now.
 
 Inside the repository folder features a MATLAB .m file of the code in progress, graph visualization, sample data, and lastly this README.md.
-## Activity Diagram
+## Code Process (Acitvity Diagram)
 ![Subsystem Diagram](https://user-images.githubusercontent.com/70229773/219973558-7d33b56b-5338-4c60-a29f-ccf55f6dba2b.JPG)
 ## Features (System Environment)
 In features, we simplify the code by breaking down the code infrastructure in .m files into each section corresponding to its process and function. 
