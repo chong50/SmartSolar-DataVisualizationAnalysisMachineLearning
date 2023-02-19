@@ -19,4 +19,7 @@ Note: Due to the rest of incomplete subsystems, we are unable to import real dat
 
 In the absence of real data,  we used the analogy of each subsystem's power consumption similar to each Wang Hall tenant's power consumption, and run on the assumption that Wang Hall has solar panels that yield renewable generation. We use this analogy to create the sample data csv. of power consumption of each tenant. This will be the data example in our first round of testing of the code that covers importing the data, visualization of data, computation of generation and load consumption graphs and visualization of moving average.
 
+## Objective 
+The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, based on optimal results, we can infer and predict the results of future performance of Power generation of the solar panel. 
+
 ## Activity Diagram
