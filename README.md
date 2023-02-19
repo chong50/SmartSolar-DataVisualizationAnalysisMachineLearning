@@ -4,11 +4,6 @@
 
 #### Inside the repository folder has MATLAB .m file featuring the software code in progress, results of graphs, a sample data file, and also this README.md file.
 
-## Objective 
-The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, Infer and predict current and future performances of Power generation of solar panel. 
-
-## Activity Diagram
-
 ## Features (System Environment)
 In features, we simplify the code by breaking down the code infrastructure in .m files into each section corresponding to its process and function. 
 - Importing the Data
@@ -18,3 +13,7 @@ In features, we simplify the code by breaking down the code infrastructure in .m
 - Process of Artificial Neural Network 
 - Model Visualization and Computation of Error
 
+## Objective 
+The objective of the code is to first import the data from remote server. Visualize them. Normalizing input and output. Feed into Machine Learning. The process of Machine Learning include re-training the model and finding the optimal number of neurons. Finally, based on optimal results, infer and predict future results of Power generation of solar panel. 
+
+## Activity Diagram
