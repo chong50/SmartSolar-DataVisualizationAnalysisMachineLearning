@@ -6,7 +6,7 @@ Inside the repository folder features a MATLAB .m file of the code in progress, 
 
 Note: Due to the rest of incomplete subsystems, we are unable to import real data from remote server. In our testing of code function, we do not require real data to test the operation of the system. Instead, we only need a sample of power consumption data.  
 
-In the absence of real data,  we used the analogy of each subsystem's power consumption similar to each Wang Hall tenant's power consumption, and run on the assumption that Wang Hall has solar panels that yield renewable generation. We use this analogy to create the sample data csv. of power consumption of each tenant. This will be sufficient small pool of sample data in our first round of testing of the code. 
+In the absence of real data,  we used the analogy of each subsystem's power consumption similar to each Wang Hall tenant's power consumption, and run on the assumption that Wang Hall has solar panels that yield renewable generation. We use this analogy to create the sample data csv. of power consumption of each tenant. This will be sufficient power consumption data example in our first round of testing of the code. 
 
 ## Features (System Environment)
 In features, we simplify the code by breaking down the code infrastructure in .m files into each section corresponding to its process and function. 
